@@ -1,0 +1,9 @@
+
+{
+  "name": "Tomauno Models Hub",
+  "description": "Plataforma centralizada para Tomauno Models, con gestión de soporte, cursos y staff, integrada con Google Apps Script.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
