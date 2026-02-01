@@ -14,7 +14,7 @@ const Header: React.FC = () => {
             </a>
             
             <nav className="hidden md:flex items-center gap-10">
-              <a href="/cursos.html" className="text-white/60 hover:text-white text-xs font-bold uppercase tracking-widest transition-colors">Cursos</a>
+              <a href="https://capacitaciones-six.vercel.app/index.html" className="text-white/60 hover:text-white text-xs font-bold uppercase tracking-widest transition-colors">Cursos</a>
               <a href="/modelos.html" className="text-white/60 hover:text-white text-xs font-bold uppercase tracking-widest transition-colors">Modelos</a>
               <a href="/staff.html" className="text-white/60 hover:text-white text-xs font-bold uppercase tracking-widest transition-colors">Staff</a>
             </nav>
